@@ -1,5 +1,5 @@
 class Tecnica:
-    def __init__(self,  Nombre,danyoF,danyoM,probCrit,probAcierto,costeEnergia):
+    def __init__(self, Nombre, danyoF, danyoM, probCrit, probAcierto, costeEnergia):
         self.Nombre=Nombre
         self.danyoFisico=danyoF
         self.danyoMagico=danyoM
