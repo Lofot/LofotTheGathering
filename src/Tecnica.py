@@ -10,9 +10,9 @@ class Tecnica:
     def getNombre(self):
             return self.Nombre
     def getDanyoFisico(self):
-            return int(self.danyoFisico)
+            return self.danyoFisico
     def getDanyoMagico(self):
-            return int(self.danyoMagico)
+            return self.danyoMagico
     def getProbCritico(self):
             return self.probCritico
     def getProbAcierto(self):
